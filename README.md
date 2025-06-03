@@ -45,7 +45,6 @@ To build an interactive and visually engaging dashboard to help stakeholders tra
 ## 🔗 Live Dashboard (Optional)
 
 > 🌐 View the interactive version on [Tableau Public](https://public.tableau.com/views/sale_car/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-*(Insert actual link once published)*
 
 ---
 
